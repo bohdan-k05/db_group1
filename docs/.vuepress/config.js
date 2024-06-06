@@ -15,7 +15,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/database_group1/',
+  base: '/db_group1/',
   theme: 'cool',
   // dest: 'dist',
   head: [
